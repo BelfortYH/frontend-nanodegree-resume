@@ -1,1 +1,1 @@
-$("#main").append([Belfort]);
+$("#main").append(Belfort);
